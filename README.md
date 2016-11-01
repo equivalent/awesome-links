@@ -7,7 +7,7 @@ Heavily inspired by https://github.com/JanVanRyswyck/awesome-talks, but in this 
 
 ### Object Oriented Talks
 
-* [OOP is Dead! Long Live OODD!](https://www.youtube.com/watch?v=RdE-d_EhzmA) **[David West](http://davewest.us/)** [1:08:00]
+* [OOP is Dead! Long Live OODD!](https://www.youtube.com/watch?v=RdE-d_EhzmA) by **[David West](http://davewest.us/)** [1:08:00]
 
 
 ### API design
