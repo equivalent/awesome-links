@@ -7,4 +7,4 @@ Heavily inspired by https://github.com/JanVanRyswyck/awesome-talks, but in this 
 
 ### Object Oriented Talks
 
-* [David West OOP is Dead! Long Live OODD!](https://www.youtube.com/watch?v=RdE-d_EhzmA)
+* [OOP is Dead! Long Live OODD!](https://www.youtube.com/watch?v=RdE-d_EhzmA) **David West** [1:08:00]
