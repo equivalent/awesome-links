@@ -13,3 +13,6 @@ Heavily inspired by https://github.com/JanVanRyswyck/awesome-talks, but in this 
 ### API design
 
 * [REST+JSON API Design - Best Practices for Developers](https://www.youtube.com/watch?v=hdSrT4yjS1g) by **Les Hazelwood (Stormpath)** [1:23:57]
+
+### Tools
+* [Git For Ages 4 And Up](https://www.youtube.com/watch?v=1ffBJ4sVUb4) by **Michael Schwern**
