@@ -9,6 +9,9 @@ Heavily inspired by https://github.com/JanVanRyswyck/awesome-talks, but in this 
 
 * [OOP is Dead! Long Live OODD!](https://www.youtube.com/watch?v=RdE-d_EhzmA) by **[David West](http://davewest.us/)** [1:08:00]
 
+### Infrastructure
+
+* [Kill "Microservices" before its too late ](https://www.youtube.com/watch?v=-UKEPd2ipEk) by **Chad Fowler** at Rocky Mountain Ruby 2016 [40:00]
 
 ### API design
 
