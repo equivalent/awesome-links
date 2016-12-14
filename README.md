@@ -4,6 +4,9 @@ collection of awesome talks I've seen
 
 Heavily inspired by https://github.com/JanVanRyswyck/awesome-talks, but in this case Repo owner is actually open for suggestions and PR.  
 
+### Frontend 
+
+* [Resilient Web Design](https://www.youtube.com/watch?v=W7wj7EDrSko) by **Jeremy Keith** [26:15]
 
 ### Object Oriented Talks
 
