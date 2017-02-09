@@ -1,4 +1,4 @@
-# Eq8 Awesome Talks
+# Eq8 - Collection of Awesome Talks
 
 collection of awesome talks I've seen
 
@@ -8,13 +8,15 @@ Heavily inspired by https://github.com/JanVanRyswyck/awesome-talks, but in this 
 
 * [Resilient Web Design](https://www.youtube.com/watch?v=W7wj7EDrSko) by **Jeremy Keith** [26:15]
 
-### Object Oriented Talks
-
-* [OOP is Dead! Long Live OODD!](https://www.youtube.com/watch?v=RdE-d_EhzmA) by **[David West](http://davewest.us/)** [1:08:00]
-
 ### Infrastructure
 
 * [Kill "Microservices" before its too late ](https://www.youtube.com/watch?v=-UKEPd2ipEk) by **Chad Fowler** at Rocky Mountain Ruby 2016 [40:00]
+
+### Software Design
+
+* [Keynote Software Design in the 21st Century](https://youtu.be/B_KIAmFZJz0) by **Martin Fowler** [1:19:08]
+* [OOP is Dead! Long Live OODD!](https://www.youtube.com/watch?v=RdE-d_EhzmA) by **[David West](http://davewest.us/)** [1:08:00]
+
 
 ### API design
 
