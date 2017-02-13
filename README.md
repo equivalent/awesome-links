@@ -16,6 +16,7 @@ Heavily inspired by https://github.com/JanVanRyswyck/awesome-talks, but in this 
 
 * [Keynote Software Design in the 21st Century](https://youtu.be/B_KIAmFZJz0) by **Martin Fowler** [1:19:08]
 * [OOP is Dead! Long Live OODD!](https://www.youtube.com/watch?v=RdE-d_EhzmA) by **[David West](http://davewest.us/)** [1:08:00]
+* [Simplicity Matters](https://www.youtube.com/watch?v=rI8tNMsozo0) by **Rich Hickey** keynote talk at Rails Conf 2012 
 
 
 ### API design
