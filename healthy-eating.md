@@ -1,6 +1,7 @@
 
-### Keto
+## Keto
 
+### Free resources
 
 * [WHY Sugar is as Bad as Alcohol (Fructose, The Liver Toxin)](https://www.youtube.com/watch?v=f_4Q9Iv7_Ao) by **WIL**
 * [Why we get Fat AND Hungry | (Biology of Weight Gain & Low-Carb )](https://www.youtube.com/watch?v=KHaCKudtVi0) by **WIL**
@@ -16,3 +17,10 @@ souces:
 
 * [WIL - What I've Learned youtube](https://www.youtube.com/channel/UCqYPhGiB9tkShZorfgcL2lA)
 * [SciShow youtube](https://www.youtube.com/channel/UCZYTClx2T1of7BRZ86-8fow)
+
+
+### Paid resources
+
+[That Sugar Film - Official Trailer](https://www.youtube.com/watch?v=6uaWekLrilY)
+* $4.99 Documentary [here](https://itunes.apple.com/us/movie/that-sugar-film/id1004230408)
+* free full youtube link [here](https://www.youtube.com/watch?v=w0QoMDYdL3g)
