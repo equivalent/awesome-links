@@ -9,6 +9,9 @@
 * [Food Industry's Secret Weapon (WHY Sugar is addictive & in 80% of Food)](https://www.youtube.com/watch?v=LPxIssabhTc) by **WIL**
 * [Everything wrong with the "System" (Educate yourself)](https://www.youtube.com/watch?v=yzl7oX9FYGE) by **WIL**
 
+* [The Deal with Fat - different types of fat](https://youtu.be/mvvx2yQRbzQ) by **SciShow**
+
 souces:
 
 * [WIL - What I've Learned youtube](https://www.youtube.com/channel/UCqYPhGiB9tkShZorfgcL2lA)
+* [SciShow youtube](https://www.youtube.com/channel/UCZYTClx2T1of7BRZ86-8fow)
