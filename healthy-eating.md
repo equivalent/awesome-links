@@ -10,6 +10,7 @@
 * [Everything wrong with the "System" (Educate yourself)](https://www.youtube.com/watch?v=yzl7oX9FYGE) by **WIL**
 
 * [The Deal with Fat - different types of fat](https://youtu.be/mvvx2yQRbzQ) by **SciShow**
+* [When You Burn Fat, Where Does it Go?](https://www.youtube.com/watch?v=C8ialLlcdcw) by **SciShow**
 
 souces:
 
