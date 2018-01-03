@@ -12,6 +12,7 @@
 
 * [The Deal with Fat - different types of fat](https://youtu.be/mvvx2yQRbzQ) by **SciShow**
 * [When You Burn Fat, Where Does it Go?](https://www.youtube.com/watch?v=C8ialLlcdcw) by **SciShow**
+* [Dr. Eric Verdin on Ketogenic Diet Longevity, Beta-Hydroxybutyrate & HDAC Inhibitors](http://podbay.fm/show/818198322/e/1513144932) by **FoundMyFitness**
 
 souces:
 
