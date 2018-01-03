@@ -15,7 +15,7 @@
 * [Dr. Eric Verdin on Ketogenic Diet Longevity, Beta-Hydroxybutyrate & HDAC Inhibitors](http://podbay.fm/show/818198322/e/1513144932) by **FoundMyFitness**
 * [Starving cancer: Dominic D'Agostino at TEDxTampaBay](https://www.youtube.com/watch?v=3fM9o72ykww) by **TEDx**
 
-souces:
+sources:
 
 * [WIL - What I've Learned youtube](https://www.youtube.com/channel/UCqYPhGiB9tkShZorfgcL2lA)
 * [SciShow youtube](https://www.youtube.com/channel/UCZYTClx2T1of7BRZ86-8fow)
