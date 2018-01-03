@@ -17,6 +17,7 @@ souces:
 
 * [WIL - What I've Learned youtube](https://www.youtube.com/channel/UCqYPhGiB9tkShZorfgcL2lA)
 * [SciShow youtube](https://www.youtube.com/channel/UCZYTClx2T1of7BRZ86-8fow)
+* FoundMyFitness [youtube](https://www.youtube.com/channel/UCWF8SqJVNlx-ctXbLswcTcA) [Podcast](http://podbay.fm/show/818198322)
 
 
 ### Paid resources
