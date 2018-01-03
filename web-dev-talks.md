@@ -1,4 +1,4 @@
-# Eq8 - Collection of Awesome Talks
+# Eq8 - Collection of Awesome Webdeveloper Talks
 
 collection of awesome talks I've seen
 
