@@ -13,6 +13,7 @@
 * [When You Burn Fat, Where Does it Go?](https://www.youtube.com/watch?v=C8ialLlcdcw) by **SciShow**
 * [Dr. Eric Verdin on Ketogenic Diet Longevity, Beta-Hydroxybutyrate & HDAC Inhibitors](http://podbay.fm/show/818198322/e/1513144932) by **FoundMyFitness**
 * [Starving cancer: Dominic D'Agostino at TEDxTampaBay](https://www.youtube.com/watch?v=3fM9o72ykww) by **TEDx**
+* [Practicing fasting safely](https://www.dietdoctor.com/important-thing-practicing-fasting-safely) by **Dr. Jason Fung, M.D.**
 
 sources:
 
