@@ -8,12 +8,14 @@
 * [The Story of Fat: Why we were Wrong about Health](https://www.youtube.com/watch?v=5S6-v37nOtY) by **WIL**
 * [Food Industry's Secret Weapon (WHY Sugar is addictive & in 80% of Food)](https://www.youtube.com/watch?v=LPxIssabhTc) by **WIL**
 * [Everything wrong with the "System" (Educate yourself)](https://www.youtube.com/watch?v=yzl7oX9FYGE) by **WIL**
+* [Intermittent Fasting & Hunger - What the Science says](https://www.youtube.com/watch?v=dFT2IKmwyfg) by **WIL**
 
 * [The Deal with Fat - different types of fat](https://youtu.be/mvvx2yQRbzQ) by **SciShow**
 * [When You Burn Fat, Where Does it Go?](https://www.youtube.com/watch?v=C8ialLlcdcw) by **SciShow**
 * [Dr. Eric Verdin on Ketogenic Diet Longevity, Beta-Hydroxybutyrate & HDAC Inhibitors](http://podbay.fm/show/818198322/e/1513144932) by **FoundMyFitness**
 * [Starving cancer: Dominic D'Agostino at TEDxTampaBay](https://www.youtube.com/watch?v=3fM9o72ykww) by **TEDx**
 * [Practicing fasting safely](https://www.dietdoctor.com/important-thing-practicing-fasting-safely) by **Dr. Jason Fung, M.D.**
+* [How Intermittent Fasting Affects Your Body and Brain](https://www.youtube.com/watch?v=Sgeh2w0j51w)
 
 sources:
 
