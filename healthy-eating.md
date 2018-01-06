@@ -15,6 +15,7 @@
 * [Dr. Eric Verdin on Ketogenic Diet Longevity, Beta-Hydroxybutyrate & HDAC Inhibitors](http://podbay.fm/show/818198322/e/1513144932) by **FoundMyFitness**
 * [Starving cancer: Dominic D'Agostino at TEDxTampaBay](https://www.youtube.com/watch?v=3fM9o72ykww) by **TEDx**
 * [Practicing fasting safely](https://www.dietdoctor.com/important-thing-practicing-fasting-safely) by **Dr. Jason Fung, M.D.**
+* [The Ketogenic Diet and Cancer](https://www.youtube.com/watch?v=Q9socQcwPIs) by **Michael VanDerschelden**
 * [How Intermittent Fasting Affects Your Body and Brain](https://www.youtube.com/watch?v=Sgeh2w0j51w)
 
 sources:
