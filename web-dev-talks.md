@@ -26,3 +26,4 @@ Heavily inspired by https://github.com/JanVanRyswyck/awesome-talks, but in this 
 
 * [Bounded Context](https://martinfowler.com/bliki/BoundedContext.html) by Martin Fowler
 * [Mastering Chaos - A Netflix Guide to Microservices](https://www.youtube.com/watch?v=CZ3wIuvmHeM)
+* [The Modular Monolith: Rails Architecture](https://medium.com/@dan_manges/the-modular-monolith-rails-architecture-fb1023826fc4)
