@@ -31,7 +31,7 @@
 #### Microbes affecting your Brain
 
 * [Your Microbiome and Your Brain](https://www.youtube.com/watch?v=2ycHwcV9MvM) bf **SciShow**
-* [https://www.youtube.com/watch?v=b4CBy0uVqRc](https://www.youtube.com/watch?v=b4CBy0uVqRc) by **WIL**
+* [How the Gut Microbiome affects the Brain and Mind](https://www.youtube.com/watch?v=b4CBy0uVqRc) by **WIL**
 
 
 sources:
