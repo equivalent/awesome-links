@@ -2,6 +2,8 @@
 
 ### Free resources
 
+#### Keto Dient
+
 * [WHY Sugar is as Bad as Alcohol (Fructose, The Liver Toxin)](https://www.youtube.com/watch?v=f_4Q9Iv7_Ao) by **WIL**
 * [Why we get Fat AND Hungry | (Biology of Weight Gain & Low-Carb )](https://www.youtube.com/watch?v=KHaCKudtVi0) by **WIL**
 * [Longevity & Why I now eat One Meal a Day](https://www.youtube.com/watch?v=PKfR6bAXr-c)  by **WIL**
@@ -16,7 +18,21 @@
 * [Starving cancer: Dominic D'Agostino at TEDxTampaBay](https://www.youtube.com/watch?v=3fM9o72ykww) by **TEDx**
 * [Practicing fasting safely](https://www.dietdoctor.com/important-thing-practicing-fasting-safely) by **Dr. Jason Fung, M.D.**
 * [The Ketogenic Diet and Cancer](https://www.youtube.com/watch?v=Q9socQcwPIs) by **Michael VanDerschelden**
+* [Why Gluten is bad](https://www.youtube.com/watch?v=M0La27FNrA4) by **WIL**
+
+#### Intermittent Fasting
+
+* [Intermittent Fasting & Hunger](https://www.youtube.com/watch?v=dFT2IKmwyfg) by **WIL**
 * [How Intermittent Fasting Affects Your Body and Brain](https://www.youtube.com/watch?v=Sgeh2w0j51w)
+* [Dr. Satchin Panda on Practical Implementation of Time-Restricted Eating & Shift Work Strategies
+](https://www.foundmyfitness.com/episodes/satchin-round-2)  by **FoundMyFitness**
+* [Satchin Panda, Ph.D. on Time-Restricted Feeding and Its Effects on Obesity, Muscle Mass & Heart Health](https://www.foundmyfitness.com/episodes/satchin-panda) by **FoundMyFitness**
+
+#### Microbes affecting your Brain
+
+* [Your Microbiome and Your Brain](https://www.youtube.com/watch?v=2ycHwcV9MvM) bf **SciShow**
+* [https://www.youtube.com/watch?v=b4CBy0uVqRc](https://www.youtube.com/watch?v=b4CBy0uVqRc) by **WIL**
+
 
 sources:
 
