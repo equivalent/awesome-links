@@ -1,5 +1,7 @@
 # Healthy Eating & Keto
 
+[short explanation why keto & fasting works](https://www.youtube.com/watch?v=3d7KkyXnyB4)
+
 ### Free resources
 
 #### Keto Dient
