@@ -6,6 +6,7 @@ Heavily inspired by https://github.com/JanVanRyswyck/awesome-talks, but in this 
 
 ### Talks
 
+* [Domain Driven Design: The Good Parts - Jimmy Bogard](https://www.youtube.com/watch?v=U6CeaA-Phqo)
 * [Resilient Web Design](https://www.youtube.com/watch?v=W7wj7EDrSko) by **Jeremy Keith** [26:15]
 * [Turbolinks 5: I Can’t Believe It’s Not Native! (RailsConf 2016)](https://www.youtube.com/watch?v=SWEts0rlezA) by **Sam Stephenson** (Basecamp)
 * [Kill "Microservices" before its too late ](https://www.youtube.com/watch?v=-UKEPd2ipEk) by **Chad Fowler** at Rocky Mountain Ruby 2016 [40:00]
