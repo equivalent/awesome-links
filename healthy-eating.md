@@ -22,6 +22,11 @@
 * [The Ketogenic Diet and Cancer](https://www.youtube.com/watch?v=Q9socQcwPIs) by **Michael VanDerschelden**
 * [Why Gluten is bad](https://www.youtube.com/watch?v=M0La27FNrA4) by **WIL**
 
+#### Anti-keto resources
+
+* [Dr. Galpin argues Joe on keto diet](https://www.youtube.com/watch?v=PBNQQmFAIBw)
+
+
 #### Intermittent Fasting
 
 * [Intermittent Fasting & Hunger](https://www.youtube.com/watch?v=dFT2IKmwyfg) by **WIL**
