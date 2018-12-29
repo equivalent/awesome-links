@@ -22,6 +22,12 @@
 * [The Ketogenic Diet and Cancer](https://www.youtube.com/watch?v=Q9socQcwPIs) by **Michael VanDerschelden**
 * [Why Gluten is bad](https://www.youtube.com/watch?v=M0La27FNrA4) by **WIL**
 
+Long:
+
+* [Joe Rogan Experience #1054 - Dr. Rhonda Patrick](https://www.youtube.com/watch?v=A9Mj0Q9y084)
+* [Joe Rogan Experience #1178 - Dr. Rhonda Patrick](https://www.youtube.com/watch?v=9M8X_bs_fzI)
+* [https://www.youtube.com/watch?v=gP1NA5f4LfE]()
+
 #### Anti-keto resources
 
 * [Dr. Galpin argues Joe on keto diet](https://www.youtube.com/watch?v=PBNQQmFAIBw)
