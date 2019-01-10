@@ -21,12 +21,13 @@
 * [Practicing fasting safely](https://www.dietdoctor.com/important-thing-practicing-fasting-safely) by **Dr. Jason Fung, M.D.**
 * [The Ketogenic Diet and Cancer](https://www.youtube.com/watch?v=Q9socQcwPIs) by **Michael VanDerschelden**
 * [Why Gluten is bad](https://www.youtube.com/watch?v=M0La27FNrA4) by **WIL**
+* [Zero Q&A with Rhonda Patrick | January 2019](https://vimeo.com/309755273)
 
 Long:
 
 * [Joe Rogan Experience #1054 - Dr. Rhonda Patrick](https://www.youtube.com/watch?v=A9Mj0Q9y084)
 * [Joe Rogan Experience #1178 - Dr. Rhonda Patrick](https://www.youtube.com/watch?v=9M8X_bs_fzI)
-* [https://www.youtube.com/watch?v=gP1NA5f4LfE]()
+* [Joe Rogan Experience #1108 - Peter Attia](https://www.youtube.com/watch?v=gP1NA5f4LfE)
 
 #### Anti-keto resources
 
