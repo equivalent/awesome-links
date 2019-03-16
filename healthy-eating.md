@@ -22,6 +22,7 @@
 * [The Ketogenic Diet and Cancer](https://www.youtube.com/watch?v=Q9socQcwPIs) by **Michael VanDerschelden**
 * [Why Gluten is bad](https://www.youtube.com/watch?v=M0La27FNrA4) by **WIL**
 * [Zero Q&A with Rhonda Patrick | January 2019](https://vimeo.com/309755273)
+* [Is Keto Bad For Your Heart — Dr. Eric Thorn](https://www.youtube.com/watch?v=pxUD8fEHpTk)
 
 Long:
 
