@@ -26,3 +26,7 @@ Just because this dude was cool.
 ### Minimalism
 
 everything is in own link [here](https://github.com/equivalent/awesome-links/blob/master/minimalism.md)
+
+### Happiness
+
+* [Kevin Hart, "It's Not Cool to Be Postive" | Joe Rogan](https://www.youtube.com/watch?v=qvzW_CJTlmM)
