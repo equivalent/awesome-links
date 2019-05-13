@@ -42,6 +42,7 @@ Long:
 * [Dr. Satchin Panda on Practical Implementation of Time-Restricted Eating & Shift Work Strategies
 ](https://www.foundmyfitness.com/episodes/satchin-round-2)  by **FoundMyFitness**
 * [Satchin Panda, Ph.D. on Time-Restricted Feeding and Its Effects on Obesity, Muscle Mass & Heart Health](https://www.foundmyfitness.com/episodes/satchin-panda) by **FoundMyFitness**
+* [The Longest Fast in the World (Angus Barbieri, 382 days without eating)](https://youtu.be/u0qaaaU9NPU)
 
 #### Microbes affecting your Brain
 
