@@ -23,6 +23,12 @@
 * [Why Gluten is bad](https://www.youtube.com/watch?v=M0La27FNrA4) by **WIL**
 * [Zero Q&A with Rhonda Patrick | January 2019](https://vimeo.com/309755273)
 * [Is Keto Bad For Your Heart — Dr. Eric Thorn](https://www.youtube.com/watch?v=pxUD8fEHpTk)
+* [E. Berg on Infamation](https://www.youtube.com/watch?v=AHkvagiOE8U)
+* [Ronda Patric - Sulforaphane](https://www.youtube.com/watch?v=zz4YVJ4aRfg)
+* [Jed Fahey, Sc.D. on Isothiocyanates, the Nrf2 Pathway, Moringa &     Sulforaphane Supplementation](https://www.youtube.com/watch?v=Q0lBVCpq8jc)
+
+
+
 
 Long:
 
