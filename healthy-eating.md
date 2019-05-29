@@ -70,4 +70,9 @@ sources:
 * $4.99 Documentary [here](https://itunes.apple.com/us/movie/that-sugar-film/id1004230408)
 * free full youtube link [here](https://www.youtube.com/watch?v=w0QoMDYdL3g)
 
+### isn't vegan better ?
 
+short answer: nope. Everyones genetic is differnt, diffrent diet helps
+different people
+
+* https://twitter.com/bigfatsurprise/status/1133362803262283777?s=19
