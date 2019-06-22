@@ -27,6 +27,7 @@
 * [Ronda Patric - Sulforaphane](https://www.youtube.com/watch?v=zz4YVJ4aRfg)
 * [Jed Fahey, Sc.D. on Isothiocyanates, the Nrf2 Pathway, Moringa &     Sulforaphane Supplementation](https://www.youtube.com/watch?v=Q0lBVCpq8jc)
 
+* [Carbs that are wores than suggar](https://www.youtube.com/watch?v=Q0lBVCpq8jc&list=WL&index=81)
 
 
 
