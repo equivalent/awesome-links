@@ -26,9 +26,11 @@
 * [E. Berg on Infamation](https://www.youtube.com/watch?v=AHkvagiOE8U)
 * [Ronda Patric - Sulforaphane](https://www.youtube.com/watch?v=zz4YVJ4aRfg)
 * [Jed Fahey, Sc.D. on Isothiocyanates, the Nrf2 Pathway, Moringa &     Sulforaphane Supplementation](https://www.youtube.com/watch?v=Q0lBVCpq8jc)
+* [How NRF2 works](https://www.youtube.com/watch?v=ZFsUwQHla_0)
 
 * [Carbs that are wores than suggar](https://www.youtube.com/watch?v=Q0lBVCpq8jc&list=WL&index=81)
 
+* [Insulin vs. Ketones - The Battle for Brown Fat](https://www.youtube.com/watch?v=8t1JN0RgvO4)
 
 
 Long:
