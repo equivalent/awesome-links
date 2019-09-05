@@ -32,6 +32,7 @@
 
 * [Insulin vs. Ketones - The Battle for Brown Fat](https://www.youtube.com/watch?v=8t1JN0RgvO4)
 
+* [https://www.youtube.com/watch?v=Q2UnOryQiIY](Nina Teicholz - Vegetable Oils: The Unknown Story)
 
 Long:
 
