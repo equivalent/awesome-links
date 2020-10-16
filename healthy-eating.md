@@ -34,6 +34,8 @@
 
 * [https://www.youtube.com/watch?v=Q2UnOryQiIY](Nina Teicholz - Vegetable Oils: The Unknown Story)
 
+* [https://www.youtube.com/watch?v=CZ8lOwJHVEA)( Paul Saladino - Why not to eat vegetables)
+
 Long:
 
 * [Joe Rogan Experience #1054 - Dr. Rhonda Patrick](https://www.youtube.com/watch?v=A9Mj0Q9y084)
