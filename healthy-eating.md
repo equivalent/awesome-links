@@ -39,6 +39,7 @@ Long:
 * [Joe Rogan Experience #1054 - Dr. Rhonda Patrick](https://www.youtube.com/watch?v=A9Mj0Q9y084)
 * [Joe Rogan Experience #1178 - Dr. Rhonda Patrick](https://www.youtube.com/watch?v=9M8X_bs_fzI)
 * [Joe Rogan Experience #1108 - Peter Attia](https://www.youtube.com/watch?v=gP1NA5f4LfE)
+* [Joe Rogan 1551 Paul Saladino  ](https://www.youtube.com/watch?v=s8tJ-R28HX8)
 
 #### Anti-keto resources
 
